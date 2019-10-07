@@ -1,0 +1,56 @@
+{
+  "data": {
+    "folder": [
+      {
+        "id": "07y50rdl1",
+        "name": "FolderA",
+        "type": "folder",
+        "parent": null
+      },
+      {
+        "id": "07y50rdl9",
+        "name": "FolderB",
+        "type": "folder",
+        "parent": null
+      },
+      {
+        "id": "07y50rd20",
+        "name": "FolderC",
+        "type": "folder",
+        "parent": "07y50rdl1"
+      },
+      {
+        "id": "07y50rd29",
+        "name": "FolderD",
+        "type": "folder",
+        "parent": "07y50rdl1"
+      }
+    ],
+    "file": [
+      {
+        "id": "3",
+        "type": "file",
+        "title": "3MacOS Notes App Clone",
+        "description": "Create a stripped down clone of the MacOS Notes App.Apple Notes is installed on every Mac as part of Apple's productivity suite. What began as a simple iOS note taking app has evolved into a feature-packed cross-platform note taking solution. You can capture rich text notes with formatting, in-line images, checklists, and tables. There isn't a tagging system, but you can pull notes into folders or pin them to the top of the stack for better organization.The app supports attachments in the form of photos and videos, document scans from your iPhone, hand-drawn sketches, audio recordings, or document files. You can add items directly to your notes by clicking the Share button in apps like Safari, Mail, and Apple Maps. Click the Browse Attachments button on the app toolbar to browse your entire note collection by the attachments you've amassed",
+        "parentID": "07y50rdl1",
+        "date": "Wed Oct 02 2019 09:30:00 GMT+0530"
+      },
+      {
+        "id": "2",
+        "type": "file",
+        "title": "2MacOS Notes App Clone",
+        "description": "Create a stripped down clone of the MacOS Notes App.Apple Notes is installed on every Mac as part of Apple's productivity suite. What began as a simple iOS note taking app has evolved into a feature-packed cross-platform note taking solution. You can capture rich text notes with formatting, in-line images, checklists, and tables. There isn't a tagging system, but you can pull notes into folders or pin them to the top of the stack for better organization.The app supports attachments in the form of photos and videos, document scans from your iPhone, hand-drawn sketches, audio recordings, or document files. You can add items directly to your notes by clicking the Share button in apps like Safari, Mail, and Apple Maps. Click the Browse Attachments button on the app toolbar to browse your entire note collection by the attachments you've amassed",
+        "parentID": "07y50rdl1",
+        "date": "Wed Oct 02 2019 05:30:00 GMT+0530"
+      },
+      {
+        "id": "1",
+        "type": "file",
+        "title": "1MacOS Notes App Clone",
+        "description": "Create a stripped down clone of the MacOS Notes App.Apple Notes is installed on every Mac as part of Apple's productivity suite. What began as a simple iOS note taking app has evolved into a feature-packed cross-platform note taking solution. You can capture rich text notes with formatting, in-line images, checklists, and tables. There isn't a tagging system, but you can pull notes into folders or pin them to the top of the stack for better organization.The app supports attachments in the form of photos and videos, document scans from your iPhone, hand-drawn sketches, audio recordings, or document files. You can add items directly to your notes by clicking the Share button in apps like Safari, Mail, and Apple Maps. Click the Browse Attachments button on the app toolbar to browse your entire note collection by the attachments you've amassed",
+        "parentID": "07y50rdl1",
+        "date": "Tue Oct 01 2019 05:30:00 GMT+0530"
+      }
+    ]
+  }
+}
